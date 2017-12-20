@@ -31,3 +31,9 @@ Arquitetura Von Neumann vs Arquitetura Harvard
   Uma Memória fica responsável por armazenar os dados e a outra Memória fica responsável por armazenar as instruções, dessa forma a CPU consegue acessar ambas de maneira simultânea, permitindo a leitura de uma instrução ao mesmo tempo em que acessa os dados de memória, tornando o desempenho melhor otimizado. A arquitetura Havard também possui suporte a pipeline, que consiste na busca de mais de uma instrução por ciclo, o que a torna mais eficiente.
 	
   O foco de cada arquitetura ao decorrer do tempo foi aplicado em áreas diferentes, visando às necessidades de cada mercado. A arquitetura de Von Neumann se direcionou aos computadores pessoais, com formato de instruções mais complexo, visto até hoje, apesar de sofrer mudanças e adição de componentes. A arquitetura Havard foi levada a área de microcontroladores por sua alta velocidade e desempenho para sistemas mais específicos e de instruções mais simples.
+
+Referência:
+
+Wikipedia - https://www.wikipedia.org/
+	  - https://pt.wikipedia.org/wiki/Arquitetura_de_von_Neumann
+	  - https://pt.wikipedia.org/wiki/Arquitetura_Harvard
